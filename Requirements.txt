@@ -1,0 +1,6 @@
+discord.py
+yfinance
+pandas
+aiohttp
+pytz
+lxml
